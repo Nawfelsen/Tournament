@@ -1,6 +1,6 @@
 # Senoussi_Projet_COO
 
-## **Membres du binôme**
+## **Auteur**
 
 - Nawfel Senoussi
 
